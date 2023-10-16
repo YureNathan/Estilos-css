@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: azure;
+}
+
+main {
+  width: 450px;
+  height: 300px;
+  border: solid red;
+}
+
+#container {
+  width: 200px;
+  height: 250px;
+  border: solid blue;
+}
+
+.box1 {
+  width: 100px;
+  height: 50px;
+  background-color: bisque;
+}
+
+.box2 {
+  width: 100px;
+  height: 50px;
+  background-color: cadetblue;
+}
